@@ -15,4 +15,4 @@ Move along.
 
 Experimenting with interactive fiction via the Twinery editor. My efforts thus far:
 
-- Quarantine Adventure (2020)
+- [Quarantine Adventure](Quarantine Adventure.html) (2020)
