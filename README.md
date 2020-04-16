@@ -1,6 +1,6 @@
 <head>
   <meta charset="UTF-8">
-  <title>Projects & Experiments | Defiant Sloth, aka Paul Williams</title>
+  <title>Projects & Experiments | Defiant Sloth (aka Paul Williams)</title>
   <meta name="description" content="A repository of random projects and adventures.">
   <meta name="author" content="John Doe">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
